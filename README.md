@@ -20,9 +20,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
