@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -85,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
