@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0016-3sum-closest) |
+| [0349-intersection-of-two-arrays](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -77,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
