@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -53,8 +56,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
