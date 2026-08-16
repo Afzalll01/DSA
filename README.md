@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -46,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0219-contains-duplicate-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
