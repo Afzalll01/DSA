@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0049-group-anagrams) |
 | [0090-subsets-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0198-house-robber) |
 ## Backtracking
@@ -131,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
