@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0219-contains-duplicate-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0387-first-unique-character-in-a-string) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0643-maximum-average-subarray-i) |
