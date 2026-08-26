@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2460-apply-operations-to-an-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0443-string-compression) |
 | [1927-sum-game](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
