@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2390-removing-stars-from-a-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
