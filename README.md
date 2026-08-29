@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0844-backspace-string-compare) |
 | [1903-largest-odd-number-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0844-backspace-string-compare) |
 | [2460-apply-operations-to-an-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
