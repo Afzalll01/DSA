@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2000-reverse-prefix-of-word) |
 | [2460-apply-operations-to-an-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1927-sum-game) |
+| [2000-reverse-prefix-of-word](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2716-minimize-string-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
