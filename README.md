@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3875-construct-uniform-parity-array-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2843-count-symmetric-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3875-construct-uniform-parity-array-i) |
 ## Union-Find
 |  |
 | ------- |
