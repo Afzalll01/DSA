@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0347-top-k-frequent-elements) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0633-sum-of-square-numbers) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
