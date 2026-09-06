@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0643-maximum-average-subarray-i) |
+| [0867-transpose-matrix](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0867-transpose-matrix) |
 | [0954-array-of-doubled-pairs](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0954-array-of-doubled-pairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0977-squares-of-a-sorted-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
