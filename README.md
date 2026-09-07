@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Afzalll01/DSA/tree/master/0054-spiral-matrix) |
 | [0090-subsets-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Afzalll01/DSA/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0867-transpose-matrix) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Afzalll01/DSA/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0867-transpose-matrix) |
