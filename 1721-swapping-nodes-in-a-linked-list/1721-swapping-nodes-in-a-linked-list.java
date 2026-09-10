@@ -24,15 +24,11 @@ class Solution {
         }
         int s=temp.val;
         temp=head;
-        for(int i=1;i<k;i++){
+        for(int i=1;i<=size;i++){
+            if(i==k) temp.val=s;
+            if(i==size-k+1) temp.val=f;
             temp=temp.next;
         }
-        temp.val=s;
-        temp=head;
-        for(int i=1;i<size-k+1;i++){
-            temp=temp.next;
-        }
-        temp.val=f;
         return head;
 
     }
