@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1927-sum-game) |
 | [2652-sum-multiples](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2652-sum-multiples) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Afzalll01/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2843-count-symmetric-integers](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2843-count-symmetric-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Afzalll01/DSA/tree/master/3870-count-commas-in-range) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Afzalll01/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2390-removing-stars-from-a-string) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Afzalll01/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Afzalll01/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Afzalll01/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Afzalll01/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Afzalll01/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
