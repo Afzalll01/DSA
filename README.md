@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0633-sum-of-square-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1927-sum-game) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Afzalll01/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2652-sum-multiples](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2652-sum-multiples) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Afzalll01/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2843-count-symmetric-integers](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2843-count-symmetric-integers) |
