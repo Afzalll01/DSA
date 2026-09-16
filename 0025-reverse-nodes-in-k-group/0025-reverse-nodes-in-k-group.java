@@ -9,42 +9,28 @@
  * }
  */
 class Solution {
-    public ArrayList<Integer> reverse(ArrayList<Integer> list,int i,int j){
-        while(i<j){
-            int temp=list.get(i);
-            list.set(i,list.get(j));
-            list.set(j,temp);
-            i++;
-            j--;
+    public ListNode reverse(ListNode start,ListNode end){
+        ListNode curr=start;
+        ListNode prev=null;
+        ListNode fwd=null;
+        while(curr!=end){
+            fwd=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=fwd;
         }
-        return list;
+        return prev;
     }
-    public ArrayList<Integer> reverseK(ArrayList<Integer> list,int i,int k){
-        if(i>=list.size()) return list;
-        int j=i+k-1;
-        if (j >= list.size()) {
-            return list;
-        }
-        list=reverse(list,i,j);
-        return reverseK(list,j+1,k);
-    }
-    
     public ListNode reverseKGroup(ListNode head, int k) {
-        ArrayList<Integer> List=new ArrayList<>();
+        if(head==null || k==1) return head;
         ListNode temp=head;
-        while(temp!=null){
-            List.add(temp.val);
+        for(int i=0;i<k;i++){
+            if(temp==null) return head;
             temp=temp.next;
         }
-        List=reverseK(List,0,k);
-        ListNode dummy=new ListNode(-1);
-        ListNode t=dummy;
-        for(int i=0;i<List.size();i++){
-            ListNode p=new ListNode(List.get(i));
-            t.next=p;
-            t=t.next;
-        }
-        t.next=null;
-        return dummy.next;
+        ListNode nextGroup=temp;
+        ListNode newHead=reverse(head,nextGroup);
+        head.next=reverseKGroup(nextGroup,k);
+        return newHead;
     }
 }
