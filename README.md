@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Afzalll01/DSA/tree/master/0904-fruit-into-baskets) |
 | [0954-array-of-doubled-pairs](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0954-array-of-doubled-pairs) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Afzalll01/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2716-minimize-string-length](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2716-minimize-string-length) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2000-reverse-prefix-of-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Afzalll01/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2390-removing-stars-from-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2390-removing-stars-from-a-string) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Afzalll01/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2716-minimize-string-length](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2716-minimize-string-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3163-string-compression-iii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3163-string-compression-iii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Afzalll01/DSA/tree/master/0904-fruit-into-baskets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Afzalll01/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Afzalll01/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Counting
 |  |
