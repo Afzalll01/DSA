@@ -5,18 +5,15 @@ class Solution {
         int i=0;
         for(int j=0;j<s.length();j++){
             char ch=s.charAt(j);
-            if(!list.contains(ch)) list.add(ch);
+            if(!list.contains(ch)){
+                list.add(ch);
+                max=Math.max(j-i+1,max);
+            }
             else{
-                char c=s.charAt(i);
-                while(s.charAt(i)!=ch){
-                    list.remove((Character) s.charAt(i));
-                    i++;
-                }
                 list.remove((Character) s.charAt(i));
                 i++;
-                list.add((Character) ch);
+                j--;
             }
-            max=Math.max(j-i+1,max);
         }
         return max;
     }
