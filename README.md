@@ -313,11 +313,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Afzalll01/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Afzalll01/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Afzalll01/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0042-trapping-rain-water) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Afzalll01/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Afzalll01/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Afzalll01/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Afzalll01/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Afzalll01/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Afzalll01/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Afzalll01/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Afzalll01/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Afzalll01/DSA/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Afzalll01/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
