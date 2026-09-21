@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Afzalll01/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Afzalll01/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Afzalll01/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Afzalll01/DSA/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Afzalll01/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0198-house-robber) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Afzalll01/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Afzalll01/DSA/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Afzalll01/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Afzalll01/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Afzalll01/DSA/tree/master/0445-add-two-numbers-ii) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Afzalll01/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Afzalll01/DSA/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Afzalll01/DSA/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Afzalll01/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Afzalll01/DSA/tree/master/2487-remove-nodes-from-linked-list) |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Afzalll01/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Afzalll01/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0085-maximal-rectangle](https://github.com/Afzalll01/DSA/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0867-transpose-matrix) |
