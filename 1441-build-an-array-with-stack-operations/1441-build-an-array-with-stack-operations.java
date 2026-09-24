@@ -9,7 +9,7 @@ class Solution {
                 list.add("Pop");
                 j++;
             }
-            list.add("Push");
+            if(target[i]==j) list.add("Push");
             j++;
         }
         return list;
