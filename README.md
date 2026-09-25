@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Afzalll01/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Afzalll01/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Afzalll01/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Afzalll01/DSA/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Afzalll01/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Afzalll01/DSA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Afzalll01/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Afzalll01/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Afzalll01/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Afzalll01/DSA/tree/master/0445-add-two-numbers-ii) |
@@ -510,5 +512,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Afzalll01/DSA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Afzalll01/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Afzalll01/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
