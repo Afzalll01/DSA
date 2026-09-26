@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Afzalll01/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1720-decode-xored-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1720-decode-xored-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Afzalll01/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Afzalll01/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Afzalll01/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Afzalll01/DSA/tree/master/0904-fruit-into-baskets) |
 | [0954-array-of-doubled-pairs](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0954-array-of-doubled-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Afzalll01/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Afzalll01/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Afzalll01/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2716-minimize-string-length](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2716-minimize-string-length) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Afzalll01/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2000-reverse-prefix-of-word) |
