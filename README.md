@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Afzalll01/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Afzalll01/DSA/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Afzalll01/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Afzalll01/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Afzalll01/DSA/tree/master/0226-invert-binary-tree) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Afzalll01/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Afzalll01/DSA/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Afzalll01/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Afzalll01/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Afzalll01/DSA/tree/master/0226-invert-binary-tree) |
@@ -566,11 +568,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Afzalll01/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Afzalll01/DSA/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Afzalll01/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Afzalll01/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Afzalll01/DSA/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Afzalll01/DSA/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Afzalll01/DSA/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
