@@ -1,22 +1,22 @@
 class Solution {
-     public List<List<Integer>> Dup(int[] nums,List<List<Integer>> list,List<Integer> sub,int i){
+    public List<List<Integer>> sub(List<List<Integer>> ans,int i,int[] nums,List<Integer> l){
         if(i==nums.length){
-            if(!list.contains(sub)){
-                list.add(new ArrayList<>(sub));
+            if(!ans.contains(l)){
+                ans.add(new ArrayList<>(l));
             }
-            return list;
+            return ans;
         }
-        sub.add(nums[i]);
-        Dup(nums,list,sub,i+1);
-        sub.remove(sub.size()-1);
-        Dup(nums,list,sub,i+1);
-        return list;
-
-     }
+        l.add(nums[i]);
+        sub(ans,i+1,nums,l);
+        l.remove(l.size()-1);
+        sub(ans,i+1,nums,l);
+        return ans;
+    }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        List<List<Integer>> list=new ArrayList<>();
-        List<Integer> sub=new ArrayList<>();
+        List<List<Integer>> ans=new ArrayList<>();
+        List<Integer> l=new ArrayList<>();
         Arrays.sort(nums);
-        return Dup(nums,list,sub,0);
+        sub(ans,0,nums,l);
+        return ans;
     }
 }
