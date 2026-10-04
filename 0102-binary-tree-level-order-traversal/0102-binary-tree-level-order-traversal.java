@@ -14,18 +14,16 @@
  * }
  */
 class Solution {
-    public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> ans = new ArrayList<>();
-        levelOrder(root, 0, ans);
-        return ans;
-    }
-    void levelOrder(TreeNode root, int level, List<List<Integer>> ans) {
-        if (root == null)
-            return;
-        if (ans.size() == level)
-            ans.add(new ArrayList<>());
+    public void Order(TreeNode root,int level,List<List<Integer>> ans){
+        if(root==null) return;
+        if(ans.size()==level) ans.add(new ArrayList<>());
         ans.get(level).add(root.val);
-        levelOrder(root.left, level + 1, ans);
-        levelOrder(root.right, level + 1, ans);
+        Order(root.left,level+1,ans);
+        Order(root.right,level+1,ans);
+    }
+    public List<List<Integer>> levelOrder(TreeNode root) {
+        List<List<Integer>> l=new ArrayList<>();
+        Order(root,0,l);
+        return l;
     }
 }
