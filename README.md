@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Afzalll01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Afzalll01/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0198-house-robber) |
+| [0678-valid-parenthesis-string](https://github.com/Afzalll01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Afzalll01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0954-array-of-doubled-pairs](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0954-array-of-doubled-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1927-sum-game) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Afzalll01/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Afzalll01/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Afzalll01/DSA/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Afzalll01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Afzalll01/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -561,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Afzalll01/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Afzalll01/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Afzalll01/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Afzalll01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Afzalll01/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
