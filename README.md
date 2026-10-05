@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Afzalll01/DSA/tree/master/0912-sort-an-array) |
 | [0954-array-of-doubled-pairs](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0954-array-of-doubled-pairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Afzalll01/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1095-find-in-mountain-array](https://github.com/Afzalll01/DSA/tree/master/1095-find-in-mountain-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Afzalll01/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Afzalll01/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Afzalll01/DSA/tree/master/0904-fruit-into-baskets) |
 | [0954-array-of-doubled-pairs](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0954-array-of-doubled-pairs) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Afzalll01/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Afzalll01/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Afzalll01/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Afzalll01/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Afzalll01/DSA/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Afzalll01/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Afzalll01/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Afzalll01/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Afzalll01/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Afzalll01/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [3843-first-element-with-unique-frequency](https://github.com/Afzalll01/DSA/tree/master/3843-first-element-with-unique-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
