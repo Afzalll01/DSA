@@ -1,21 +1,20 @@
 class Solution {
     public int characterReplacement(String s, int k) {
         HashMap<Character,Integer> map=new HashMap<>();
-        int st=0;
-        int end=0;
         int max=0;
         int ans=0;
-        while(end!=s.length()){
-            char ch=s.charAt(end);
+        int j=0;
+        for(int i=0;i<s.length();i++){
+            char ch=s.charAt(i);
             map.put(ch,map.getOrDefault(ch,0)+1);
             max=Math.max(max,map.get(ch));
-            while(end-st+1-max>k){
-                char c=s.charAt(st);
+            while(i-j+1-max>k){
+                char c=s.charAt(j);
                 map.put(c,map.get(c)-1);
-                st++;
+                if(map.get(c)==0) map.remove(c);
+                j++;
             }
-            ans=Math.max(ans,end-st+1);
-            end++;
+            ans=Math.max(ans,i-j+1);
         }
         return ans;
     }
