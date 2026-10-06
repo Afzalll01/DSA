@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3904-smallest-stable-index-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [4044-count-good-cyclic-rotations](https://github.com/Afzalll01/DSA/tree/master/4044-count-good-cyclic-rotations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Afzalll01/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Afzalll01/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [4044-count-good-cyclic-rotations](https://github.com/Afzalll01/DSA/tree/master/4044-count-good-cyclic-rotations) |
 ## Counting
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Afzalll01/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3903-smallest-stable-index-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3904-smallest-stable-index-ii) |
+| [4044-count-good-cyclic-rotations](https://github.com/Afzalll01/DSA/tree/master/4044-count-good-cyclic-rotations) |
 ## Game Theory
 |  |
 | ------- |
