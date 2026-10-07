@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/Afzalll01/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0389-find-the-difference) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Afzalll01/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Afzalll01/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Afzalll01/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Afzalll01/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Afzalll01/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Afzalll01/DSA/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Afzalll01/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0513-find-bottom-left-tree-value](https://github.com/Afzalll01/DSA/tree/master/0513-find-bottom-left-tree-value) |
 ## DP on Trees
 |  |
