@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Afzalll01/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Afzalll01/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Afzalll01/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Afzalll01/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Afzalll01/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1903-largest-odd-number-in-string) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Afzalll01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Afzalll01/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0954-array-of-doubled-pairs](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0954-array-of-doubled-pairs) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Afzalll01/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Afzalll01/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Afzalll01/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Afzalll01/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Afzalll01/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Afzalll01/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Afzalll01/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Afzalll01/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Afzalll01/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Afzalll01/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Tree
 |  |
 | ------- |
