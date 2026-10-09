@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Afzalll01/DSA/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/Afzalll01/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Afzalll01/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0070-climbing-stairs) |
+| [0415-add-strings](https://github.com/Afzalll01/DSA/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Afzalll01/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0633-sum-of-square-numbers) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Afzalll01/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Afzalll01/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/Afzalll01/DSA/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0867-transpose-matrix) |
