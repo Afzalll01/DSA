@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Afzalll01/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2460-apply-operations-to-an-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2460-apply-operations-to-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Afzalll01/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Afzalll01/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Afzalll01/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2843-count-symmetric-integers) |
 ## Trie
 |  |
