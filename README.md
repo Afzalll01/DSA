@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Afzalll01/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Afzalll01/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Afzalll01/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Afzalll01/DSA/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Afzalll01/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Afzalll01/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Afzalll01/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Afzalll01/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Afzalll01/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Afzalll01/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Afzalll01/DSA/tree/master/0085-maximal-rectangle) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Afzalll01/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Afzalll01/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Afzalll01/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Afzalll01/DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Afzalll01/DSA/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0240-search-a-2d-matrix-ii) |
