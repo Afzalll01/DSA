@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Afzalll01/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Afzalll01/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Afzalll01/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Afzalll01/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3693-climbing-stairs-ii](https://github.com/Afzalll01/DSA/tree/master/3693-climbing-stairs-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2716-minimize-string-length) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Afzalll01/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Afzalll01/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Afzalll01/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Afzalll01/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -713,4 +715,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Afzalll01/DSA/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Afzalll01/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Afzalll01/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
