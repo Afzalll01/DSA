@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/Afzalll01/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Afzalll01/DSA/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Afzalll01/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0424-longest-repeating-character-replacement) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Afzalll01/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Afzalll01/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Afzalll01/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Afzalll01/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Afzalll01/DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Afzalll01/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Afzalll01/DSA/tree/master/0503-next-greater-element-ii) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Afzalll01/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Afzalll01/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Afzalll01/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Afzalll01/DSA/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Afzalll01/DSA/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Afzalll01/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Afzalll01/DSA/tree/master/2487-remove-nodes-from-linked-list) |
