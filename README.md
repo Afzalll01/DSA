@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Afzalll01/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Afzalll01/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/Afzalll01/DSA/tree/master/1095-find-in-mountain-array) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Afzalll01/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Afzalll01/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Afzalll01/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Afzalll01/DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Afzalll01/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Afzalll01/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3693-climbing-stairs-ii](https://github.com/Afzalll01/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0867-transpose-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Afzalll01/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Linked List
 |  |
 | ------- |
