@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Afzalll01/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Afzalll01/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Afzalll01/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0443-string-compression) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0205-isomorphic-strings) |
 | [0301-remove-invalid-parentheses](https://github.com/Afzalll01/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Afzalll01/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0389-find-the-difference) |
