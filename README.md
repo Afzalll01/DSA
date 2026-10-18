@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0954-array-of-doubled-pairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0977-squares-of-a-sorted-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Afzalll01/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2785-sort-vowels-in-a-string](https://github.com/Afzalll01/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Afzalll01/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Afzalll01/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2390-removing-stars-from-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Afzalll01/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2716-minimize-string-length](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2716-minimize-string-length) |
+| [2785-sort-vowels-in-a-string](https://github.com/Afzalll01/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Afzalll01/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-string-compression-iii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3163-string-compression-iii) |
