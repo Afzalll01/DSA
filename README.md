@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Afzalll01/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0567-permutation-in-string) |
+| [0677-map-sum-pairs](https://github.com/Afzalll01/DSA/tree/master/0677-map-sum-pairs) |
 | [0904-fruit-into-baskets](https://github.com/Afzalll01/DSA/tree/master/0904-fruit-into-baskets) |
 | [0954-array-of-doubled-pairs](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0954-array-of-doubled-pairs) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Afzalll01/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Afzalll01/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0567-permutation-in-string) |
+| [0677-map-sum-pairs](https://github.com/Afzalll01/DSA/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/Afzalll01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Afzalll01/DSA/tree/master/0856-score-of-parentheses) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0014-longest-common-prefix) |
+| [0677-map-sum-pairs](https://github.com/Afzalll01/DSA/tree/master/0677-map-sum-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Afzalll01/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Afzalll01/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Afzalll01/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0677-map-sum-pairs](https://github.com/Afzalll01/DSA/tree/master/0677-map-sum-pairs) |
 ## Interactive
 |  |
 | ------- |
