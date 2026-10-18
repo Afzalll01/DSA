@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Afzalll01/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3819-rotate-non-negative-elements](https://github.com/Afzalll01/DSA/tree/master/3819-rotate-non-negative-elements) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Afzalll01/DSA/tree/master/3834-merge-adjacent-equal-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/Afzalll01/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Afzalll01/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Afzalll01/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Afzalll01/DSA/tree/master/3834-merge-adjacent-equal-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Afzalll01/DSA/tree/master/3819-rotate-non-negative-elements) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Afzalll01/DSA/tree/master/3834-merge-adjacent-equal-elements) |
 ## Prefix Sum
 |  |
 | ------- |
