@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/Afzalll01/DSA/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Afzalll01/DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Afzalll01/DSA/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0525-contiguous-array) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Afzalll01/DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/Afzalll01/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Afzalll01/DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Afzalll01/DSA/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Afzalll01/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Afzalll01/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Afzalll01/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/Afzalll01/DSA/tree/master/0494-target-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -749,10 +752,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Afzalll01/DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/Afzalll01/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Afzalll01/DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Afzalll01/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Afzalll01/DSA/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Afzalll01/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
