@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Afzalll01/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Afzalll01/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Afzalll01/DSA/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Afzalll01/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2460-apply-operations-to-an-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2460-apply-operations-to-an-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0954-array-of-doubled-pairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Afzalll01/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Afzalll01/DSA/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Afzalll01/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2785-sort-vowels-in-a-string](https://github.com/Afzalll01/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Afzalll01/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
