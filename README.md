@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Afzalll01/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Afzalll01/DSA/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Afzalll01/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Afzalll01/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Afzalll01/DSA/tree/master/0064-minimum-path-sum) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Afzalll01/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Afzalll01/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Afzalll01/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Afzalll01/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Afzalll01/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Afzalll01/DSA/tree/master/0064-minimum-path-sum) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Afzalll01/DSA/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Afzalll01/DSA/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Afzalll01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Afzalll01/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
