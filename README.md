@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Afzalll01/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/Afzalll01/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0567-permutation-in-string) |
 | [0677-map-sum-pairs](https://github.com/Afzalll01/DSA/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/Afzalll01/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Afzalll01/DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Afzalll01/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Afzalll01/DSA/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Afzalll01/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Afzalll01/DSA/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Afzalll01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/Afzalll01/DSA/tree/master/1143-longest-common-subsequence) |
