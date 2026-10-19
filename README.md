@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Afzalll01/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Afzalll01/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Afzalll01/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Afzalll01/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Afzalll01/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Afzalll01/DSA/tree/master/0912-sort-an-array) |
 | [0954-array-of-doubled-pairs](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0954-array-of-doubled-pairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Afzalll01/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Afzalll01/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2785-sort-vowels-in-a-string](https://github.com/Afzalll01/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Afzalll01/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Afzalll01/DSA/tree/master/1095-find-in-mountain-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Afzalll01/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Afzalll01/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Afzalll01/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Afzalll01/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Queue
 |  |
