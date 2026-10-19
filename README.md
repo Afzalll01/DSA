@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Afzalll01/DSA/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Afzalll01/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Afzalll01/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Afzalll01/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Afzalll01/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Afzalll01/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Afzalll01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/Afzalll01/DSA/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Afzalll01/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Afzalll01/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Afzalll01/Peter-s-Coding/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Afzalll01/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3693-climbing-stairs-ii](https://github.com/Afzalll01/DSA/tree/master/3693-climbing-stairs-ii) |
