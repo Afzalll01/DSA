@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Afzalll01/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Afzalll01/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Afzalll01/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2942-find-words-containing-character](https://github.com/Afzalll01/DSA/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Afzalll01/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/Afzalll01/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2942-find-words-containing-character](https://github.com/Afzalll01/DSA/tree/master/2942-find-words-containing-character) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Afzalll01/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-string-compression-iii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3163-string-compression-iii) |
 | [3921-score-validator](https://github.com/Afzalll01/DSA/tree/master/3921-score-validator) |
