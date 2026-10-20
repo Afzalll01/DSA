@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/Afzalll01/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3904-smallest-stable-index-ii) |
+| [3921-score-validator](https://github.com/Afzalll01/DSA/tree/master/3921-score-validator) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4044-count-good-cyclic-rotations](https://github.com/Afzalll01/DSA/tree/master/4044-count-good-cyclic-rotations) |
 ## Two Pointers
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Afzalll01/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-string-compression-iii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3163-string-compression-iii) |
+| [3921-score-validator](https://github.com/Afzalll01/DSA/tree/master/3921-score-validator) |
 ## Math
 |  |
 | ------- |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Afzalll01/DSA/tree/master/3819-rotate-non-negative-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Afzalll01/DSA/tree/master/3834-merge-adjacent-equal-elements) |
+| [3921-score-validator](https://github.com/Afzalll01/DSA/tree/master/3921-score-validator) |
 ## Prefix Sum
 |  |
 | ------- |
