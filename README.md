@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Afzalll01/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Afzalll01/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2239-find-closest-number-to-zero](https://github.com/Afzalll01/DSA/tree/master/2239-find-closest-number-to-zero) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Afzalll01/DSA/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Afzalll01/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2433-find-the-original-array-of-prefix-xor) |
