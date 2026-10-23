@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Afzalll01/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Afzalll01/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2390-removing-stars-from-a-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Afzalll01/DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Afzalll01/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2716-minimize-string-length](https://github.com/Afzalll01/Peter-s-Coding/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/Afzalll01/DSA/tree/master/2785-sort-vowels-in-a-string) |
