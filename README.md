@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Afzalll01/DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0633-sum-of-square-numbers) |
+| [0650-2-keys-keyboard](https://github.com/Afzalll01/DSA/tree/master/0650-2-keys-keyboard) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Afzalll01/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Afzalll01/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Afzalll01/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Afzalll01/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Afzalll01/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Afzalll01/DSA/tree/master/0518-coin-change-ii) |
+| [0650-2-keys-keyboard](https://github.com/Afzalll01/DSA/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/Afzalll01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/Afzalll01/DSA/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Afzalll01/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
