@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Afzalll01/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Afzalll01/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/Afzalll01/DSA/tree/master/1095-find-in-mountain-array) |
+| [1254-number-of-closed-islands](https://github.com/Afzalll01/DSA/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Afzalll01/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Afzalll01/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Afzalll01/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Afzalll01/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Afzalll01/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sliding Window
 |  |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Afzalll01/DSA/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Afzalll01/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Linked List
 |  |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Afzalll01/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0513-find-bottom-left-tree-value](https://github.com/Afzalll01/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Afzalll01/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Afzalll01/DSA/tree/master/1254-number-of-closed-islands) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -793,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Afzalll01/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Afzalll01/DSA/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/Afzalll01/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [1254-number-of-closed-islands](https://github.com/Afzalll01/DSA/tree/master/1254-number-of-closed-islands) |
 ## DP on Trees
 |  |
 | ------- |
