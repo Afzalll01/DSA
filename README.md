@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Afzalll01/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Afzalll01/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0643-maximum-average-subarray-i) |
+| [0817-linked-list-components](https://github.com/Afzalll01/DSA/tree/master/0817-linked-list-components) |
 | [0832-flipping-an-image](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Afzalll01/DSA/tree/master/0904-fruit-into-baskets) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Afzalll01/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0567-permutation-in-string) |
 | [0677-map-sum-pairs](https://github.com/Afzalll01/DSA/tree/master/0677-map-sum-pairs) |
+| [0817-linked-list-components](https://github.com/Afzalll01/DSA/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/Afzalll01/DSA/tree/master/0904-fruit-into-baskets) |
 | [0954-array-of-doubled-pairs](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0954-array-of-doubled-pairs) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Afzalll01/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Afzalll01/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Afzalll01/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Afzalll01/DSA/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/Afzalll01/DSA/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Afzalll01/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Afzalll01/DSA/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Afzalll01/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
