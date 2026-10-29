@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Afzalll01/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0070-climbing-stairs) |
+| [0382-linked-list-random-node](https://github.com/Afzalll01/DSA/tree/master/0382-linked-list-random-node) |
 | [0415-add-strings](https://github.com/Afzalll01/DSA/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Afzalll01/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Afzalll01/Peter-s-Coding/tree/master/0507-perfect-number) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Afzalll01/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Afzalll01/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Afzalll01/DSA/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Afzalll01/DSA/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Afzalll01/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Afzalll01/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Afzalll01/DSA/tree/master/0725-split-linked-list-in-parts) |
@@ -863,4 +865,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Afzalll01/DSA/tree/master/1143-longest-common-subsequence) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Afzalll01/DSA/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Afzalll01/DSA/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
